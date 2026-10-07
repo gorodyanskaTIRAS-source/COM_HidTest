@@ -1,0 +1,30 @@
+# --- Скомпільоване ---
+*.dcu
+*.exe
+*.dll
+*.bpl
+*.dcp
+*.map
+*.drc
+*.rsm
+*.tds
+*.obj
+
+# --- Папки збірки ---
+Win32/
+Win64/
+Debug/
+Release/
+
+# --- Тимчасові файли та історія IDE ---
+__history/
+__recovery/
+*.~*
+*.bak
+
+# --- Персональні налаштування IDE (у кожного свої) ---
+*.local
+*.identcache
+*.dsk
+*.stat
+*.dproj.local
